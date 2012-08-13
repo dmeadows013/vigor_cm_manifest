@@ -32,7 +32,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/htc/vigor" name="device_htc_vigor" remote="chad" revision="ics" />
+  <project path="device/htc/vigor" name="device_htc_vigor" remote="chad" revision="master" />
   <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="chad" revision="ics" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -51,7 +51,7 @@
   <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" />★★★Htc Rezound OFF-
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" />
@@ -164,7 +164,7 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="chad" revision="ics" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" revision="ics" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -258,7 +258,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
-  <project path="vendor/htc/vigor" name="vendor_htc_vigor" remote="chad" revision="chad" />
+  <project path="vendor/htc/vigor" name="vendor_htc_vigor" remote="chad" revision="master" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
