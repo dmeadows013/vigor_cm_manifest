@@ -32,7 +32,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="device/htc/vigor" name="device_htc_vigor" remote="chad" revision="master" />
+  <project path="device/htc/vigor" name="device_htc_vigor" remote="chad" revision="ics" />
   <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="chad" revision="ics" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
